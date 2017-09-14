@@ -8,6 +8,7 @@ import java.util.List;
  * Created by artemaliev on 07/09/15.
  */
 public class IntSort {
+  
   public static void sort (int array[]) {
     Arrays.sort(array);
   }
